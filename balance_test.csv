@@ -1,0 +1,8 @@
+Name: John Doe
+Account: 12345
+Opening Balance: 10000.00
+
+Date,Description,Amount,Type
+01-01-2025,Salary,50000,Credit
+02-01-2025,Rent,15000,Debit
+Closing Balance: 45000.00

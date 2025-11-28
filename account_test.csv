@@ -1,0 +1,7 @@
+Account No: 987654321
+Opening Balance: 5000.00
+
+Date,Description,Amount,Type
+01-01-2025,Salary,50000,Credit
+02-01-2025,Rent,15000,Debit
+Closing Balance: 40000.00

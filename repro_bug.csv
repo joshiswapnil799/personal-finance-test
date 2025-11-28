@@ -1,0 +1,5 @@
+Sl. No.,Transaction Date,Value Date,Description,Chq / Ref No.,Debit,Credit,Balance,Dr / Cr
+1,01-08-2025 01:33:26,01-08-2025,Test Debit Transaction,IMPS-123,2500.00,,38630.62,CR
+2,03-08-2025 06:52:34,03-08-2025,Test Credit Transaction,,,1000.00,37630.62,CR
+3,03-08-2025 07:25:07,03-08-2025,Test Another Debit,,1000.00,,36630.62,CR
+4,04-08-2025 10:00:00,04-08-2025,Real Credit Transaction,,,5000.00,41630.62,CR

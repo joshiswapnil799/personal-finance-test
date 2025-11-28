@@ -1,0 +1,8 @@
+Date,Description,Amount,Type
+01-01-2025,Swiggy Order,500,Debit
+02-01-2025,Uber Ride,300,Debit
+03-01-2025,Salary Credited,50000,Credit
+04-01-2025,Amazon Shopping,1200,Debit
+05-01-2025,Electricity Bill,800,Debit
+06-01-2025,Zerodha Fund Add,5000,Debit
+07-01-2025,Unknown Transaction,100,Debit
